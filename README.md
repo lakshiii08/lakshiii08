@@ -5,7 +5,7 @@ A passionate developer and open-source contributor from India, currently explori
 
 💡 What I Do<br><br>
 
-* Contribute to open-source programs like **GSSoC**<br>
+* Contribute to open-source programs<br>
 * Build modern web applications and developer-focused projects<br>
 * Work on frontend UI improvements, dashboards, authentication systems, and responsive design<br>
 * Explore AI integrations and real-world problem-solving projects<br><br>
