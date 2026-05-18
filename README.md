@@ -35,7 +35,7 @@ A passionate developer and open-source contributor from India, currently explori
 📫 Connect With Me<br><br>
 
 * Gmail: [lakshitasinghjpr08@gmail.com](mailto:lakshitasinghjpr08@gmail.com)<br>
-* LinkedIn: [https://www.linkedin.com/in/lakshita-singh-502454376/](https://www.linkedin.com/in/lakshita-singh-502454376/)<br><br>
+* LinkedIn: [linkedin.com/in/lakshita-singh-502454376/](https://www.linkedin.com/in/lakshita-singh-502454376/)<br><br>
 
 ---<br><br>
 
